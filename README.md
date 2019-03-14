@@ -1,6 +1,7 @@
 Wiznet_Gateway project
 
 1. Project description
+
 	The device is reading temperature and relative humidity data from sensor. It is done via 1-Wire protocol. 
 	In next step the data is gathered in appropiate form and sent to remote server via TCP/IP protocol. Communication with ethernet chip is done using SPI interface. 
 	
